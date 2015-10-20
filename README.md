@@ -2,7 +2,7 @@
 
 ## About
 
-This is a [meteor](https://www.meteor.com/) package of latest version Gridster.js of [@dsmorse](https://github.com/dsmorse)'s fork.
+This is a [meteor](https://www.meteor.com/) package of the latest version Gridster.js which forked by [@dsmorse](https://github.com/dsmorse).
 
 ## Installation
 
@@ -11,8 +11,8 @@ meteor add ryanwu:gridster
 ```
 
 ## Reference
-* [@dsmorse's fork Gridster](https://github.com/dsmorse/gridster.js)
-* [Gridster](https://github.com/DecksterTeam/gridster.js)
+* [Gridster.js](https://github.com/dsmorse/gridster.js) forked by @dsmorse
+* Original [Gridster.js](https://github.com/DecksterTeam/gridster.js)
 
 
 
