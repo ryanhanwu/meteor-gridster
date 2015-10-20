@@ -1,0 +1,3 @@
+[submodule "lib/gridster.js"]
+	path = lib/gridster.js
+	url = https://github.com/dsmorse/gridster.js.git
