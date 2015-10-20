@@ -1,7 +1,7 @@
 Package.describe({
 	name: 'ryanwu:gridster',
 	version: '0.0.2',
-	summary: 'A jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns',
+  summary: 'A jQuery plugin for building intuitive draggable layouts from elements spanning multiple columns',
 	git: 'https://github.com/ryanhanwu/meteor-gridster.git',
 	documentation: 'README.md'
 });
