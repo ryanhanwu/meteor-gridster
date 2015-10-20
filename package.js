@@ -1,17 +1,14 @@
 Package.describe({
 	name: 'ryanwu:gridster',
 	version: '0.0.1',
-	// Brief, one-line summary of the package.
-	summary: '',
-	// URL to the Git repository containing the source code for this package.
-	git: '',
-	// By default, Meteor will default to using README.md for documentation.
-	// To avoid submitting documentation, set this field to null.
+	summary: 'A jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns',
+	git: 'https://github.com/ryanhanwu/meteor-gridster.git',
 	documentation: 'README.md'
 });
 
 Package.onUse(function(api) {
 	api.versionsFrom('1.2.0.2');
 	api.use('ecmascript');
-	api.addFiles('gridster.js');
+	api.addFiles('lib/gridster.js/dist/jquery.gridster.min.js', 'client');
+	api.addFiles('lib/gridster.js/dist/jquery.gridster.min.css', 'client');
 });
