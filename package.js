@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
 	api.versionsFrom('1.2.0.2');
-	api.use('ecmascript');
-	api.addFiles('lib/gridster.js/dist/jquery.gridster.min.js', 'client');
+	api.use('jquery@1.11.3_2', 'client');
 	api.addFiles('lib/gridster.js/dist/jquery.gridster.min.css', 'client');
+	api.addFiles('lib/gridster.js/dist/jquery.gridster.min.js', 'client');
 });
