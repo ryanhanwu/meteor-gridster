@@ -1,3 +1,6 @@
+[![Meteor Icon](http://icon.meteor.com/package/ryanwu:gridster)](https://atmospherejs.com/ryanwu/gridster)
+
+
 # meteor-gridster
 
 ## About
